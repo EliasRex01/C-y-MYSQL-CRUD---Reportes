@@ -1,0 +1,153 @@
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\Sol_Almacen.Presentacion.exe.config
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\Sol_Almacen.Presentacion.exe
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\Sol_Almacen.Presentacion.pdb
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\MySql.Data.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\Google.Protobuf.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\ZstdNet.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\Ubiety.Dns.Core.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\System.Buffers.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\K4os.Compression.LZ4.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\K4os.Hash.xxHash.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\MySql.Data.xml
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\obj\Debug\Sol_Almacen.Presentacion.csproj.AssemblyReference.cache
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\obj\Debug\Sol_Almacen.Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\obj\Debug\Sol_Almacen.Presentacion.exe.config
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\obj\Debug\Sol_Almacen.Presentacion.Frm_articulos.resources
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\obj\Debug\Sol_Almacen.Presentacion.Properties.Resources.resources
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\obj\Debug\Sol_Almacen.Presentacion.csproj.GenerateResource.cache
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\obj\Debug\Sol_Almacen.Presentacion.csproj.CoreCompileInputs.cache
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\obj\Debug\Sol_Almacen.Presentacion.csproj.CopyComplete
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\obj\Debug\Sol_Almacen.Presentacion.exe
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\obj\Debug\Sol_Almacen.Presentacion.pdb
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\EnvDTE.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\stdole.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\EnvDTE.xml
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Sistemas\Sol_Almacen\Sol_Almacen.Presentacion\obj\Debug\Sol_Almacen.Presentacion.Frm_Rpt_Articulos.resources
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\Sol_Almacen.Presentacion.exe.config
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\Sol_Almacen.Presentacion.exe
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\Sol_Almacen.Presentacion.pdb
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\MySql.Data.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\EnvDTE.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\ZstdNet.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\stdole.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\MySql.Data.xml
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\obj\Debug\Sol_Almacen.Presentacion.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\obj\Debug\Sol_Almacen.Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\obj\Debug\Sol_Almacen.Presentacion.exe.config
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\obj\Debug\Sol_Almacen.Presentacion.Frm_articulos.resources
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\obj\Debug\Sol_Almacen.Presentacion.Frm_Rpt_Articulos.resources
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\obj\Debug\Sol_Almacen.Presentacion.Properties.Resources.resources
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\obj\Debug\Sol_Almacen.Presentacion.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\obj\Debug\Sol_Almacen.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\obj\Debug\Sol_Almacen.Presentacion.csproj.CopyComplete
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\obj\Debug\Sol_Almacen.Presentacion.exe
+C:\Users\HP\Desktop\Bases De Datos\Cursos de MySQL\CRUD con C# y MySQL\Sol_Almacen\Sol_Almacen.Presentacion\obj\Debug\Sol_Almacen.Presentacion.pdb
